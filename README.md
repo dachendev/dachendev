@@ -1,14 +1,4 @@
-## My Stats and Activity
-
-### Streak
-
-<p dir="auto">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dachendev" />
-  </a>
-</p>
-
-### GitHub Profile
+## Hi there 👋
 
 <p dir="auto">
   <a href="https://github.com/anuraghazra/github-readme-stats">
